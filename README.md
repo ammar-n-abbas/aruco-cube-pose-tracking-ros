@@ -25,7 +25,7 @@ This ROS (Robot Operating System) node implements ArUco marker detection and pos
 
 3. Run the ROS node.
    ```bash
-   roslaunch your_package_name aruco_cube_pose.launch
+   rosrun your_package_name aruco_cube_pose.py
    ```
 
 #### ROS Topics
