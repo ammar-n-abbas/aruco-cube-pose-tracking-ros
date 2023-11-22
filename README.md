@@ -1,7 +1,6 @@
 ### Title:
 Cube Pose Tracking using ArUco Board and ROS
 
-### Overview Video
 [![Overview Video](aruco_cube_pose.gif)](https://www.youtube.com/watch?v=cbPF6tuJRhk)
 
 #### Overview
