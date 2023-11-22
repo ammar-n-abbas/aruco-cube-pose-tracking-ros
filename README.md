@@ -1,7 +1,6 @@
 ### Title:
 Cube Pose Tracking using ArUco Board and ROS
 
-### README.md:
 
 #### Overview
 This ROS (Robot Operating System) node implements ArUco marker detection and pose estimation for a cube in a camera's field of view. It subscribes to camera information and image topics, performs marker detection using OpenCV's ArUco library, and estimates the pose of a cube with ArUco markers. The resulting pose information is published as a `PoseStamped` message and visualized using RViz markers.
