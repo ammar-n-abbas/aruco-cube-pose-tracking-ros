@@ -15,7 +15,7 @@ This ROS (Robot Operating System) node implements ArUco marker detection and pos
 #### Usage
 1. Clone this repository into your ROS workspace.
    ```bash
-   git clone https://github.com/your-username/aruco-cube-pose-tracking-ros.git
+   git clone https://github.com/ammar-n-abbas/aruco-cube-pose-tracking-ros.git
    ```
 
 2. Build the ROS workspace.
